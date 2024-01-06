@@ -1,1 +1,0 @@
-Extract this .zip in "C:\Users\Username\Documents\My Games\Terraria" and click "Replace the files in the destination" if you get a popup message about it.
