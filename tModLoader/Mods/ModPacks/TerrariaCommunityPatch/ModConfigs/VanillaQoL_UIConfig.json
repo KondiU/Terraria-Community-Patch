@@ -1,0 +1,6 @@
+{
+  "enableNPCSellPrices": false,
+  "showCoinIcon": false,
+  "npcSellPriceShowBackground": false,
+  "dynamicBackgroundColor": false
+}

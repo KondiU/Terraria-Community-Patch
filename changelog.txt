@@ -1,0 +1,22 @@
+Removed mods:
+-Better Multiplayer
+-Can I Shimmer This?
+-Display Luck Count
+-Shared World Map
+-Shop Expander
+-Terraria Ambience
+-Terraria Ambience API
+-WADTU
+
+Added mods:
+-Candy's Server List
+-Confection REBAKED (Hallow Alternative)
+-Decorative Potions
+-Echo Housing Utilities
+-Emojiverse
+-InfraSonic
+-Persistent Summons
+-Realistic Sky
+-Roommates
+-Vanilla+ QoL
+-Wing Time UI

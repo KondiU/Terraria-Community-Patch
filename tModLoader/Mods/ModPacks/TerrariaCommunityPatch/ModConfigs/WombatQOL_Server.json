@@ -1,13 +1,12 @@
 {
+  "BossArtifacts": false,
+  "ExoticGold": false,
   "SafeCritters": false,
   "SafeBoundNPCs": false,
   "TilePickup": false,
-  "BetterArmourRecipes": false,
   "DyeMixing": false,
   "EasyWings": false,
   "SpectrePaintUpgrade": false,
-  "BossArtifacts": false,
-  "GlowingMushrooms": false,
   "SoulsOfFlight": false,
   "KingSlimeKatana": false
 }
