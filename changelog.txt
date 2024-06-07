@@ -1,7 +1,1 @@
-Added mods:
--Fancy Whips
--Bank Buttons
--Builder Accessory Hotkeys
--Wing Slot Extra
--Rainbow Master: Colored Relics
--Inventory Drag
+Fixed modpack structure
