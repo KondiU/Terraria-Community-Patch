@@ -1,0 +1,9 @@
+{
+  "ThoriumLoreItems": false,
+  "StarsAboveLoreItems": false,
+  "FargosLoreItems": false,
+  "ChallengingEnemiesDropVanquisherMedals": false,
+  "PseudoMiniBossesDropVanquisherMedals": false,
+  "MiniBossesDropVanquisherMedals": false,
+  "HideModMergeItemTooltip": true
+}

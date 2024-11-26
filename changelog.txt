@@ -1,20 +1,2 @@
-Added mods:
--Biome Colored Lava (Lava Styles)
--Builder Acc Hotkeys
--Camping
--Golden Carp Delight
--MechScope
--Minion ModifyWeaponDamage Patch
--More Signs
--Naka's Inventory Tweaks
--Neat Mediumcore
--Hamaxe of Regrowth
--Improved Damage Variation
--Penny Pincher - Savings Tooltip
--Player Ping UI
--Syl Resource Pack Library
-
-Removed mods:
--Atmospheric Lava
--Emojiverse
--Inventory Drag
+-Added TCP Lite - a lightweight version of the pack that does not include high resource-demanding graphical mods.
+-Added missing config files

@@ -1,0 +1,8 @@
+{
+  "lightIntensity": 0.5,
+  "moonlightIntensity": 0.45,
+  "shadowIntensity": 0.5,
+  "dayColor": "Alternate",
+  "BloomIntensity": 0.5,
+  "BloomCounts": 10
+}

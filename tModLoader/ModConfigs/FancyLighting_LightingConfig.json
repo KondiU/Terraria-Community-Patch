@@ -1,0 +1,13 @@
+{
+  "UseEnhancedBlurring": true,
+  "UseLightMapToneMapping": true,
+  "LightMapRenderMode": 2,
+  "NormalMapsStrength": 100,
+  "DoTileEntityAmbientOcclusion": true,
+  "FancyLightingEngineMakeBrighter": true,
+  "FancyLightingEngineLightLoss": 40,
+  "FancyLightingEngineMode": 4,
+  "ThreadCount": 12,
+  "UseHiDefFeatures": true,
+  "ConfigPreset": 60
+}
